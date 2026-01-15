@@ -1,0 +1,1 @@
+> {primary} The translation module was adapted to my hardware from an existing open source project [IronOS](https://github.com/Ralim/IronOS). All the credit goes to them!

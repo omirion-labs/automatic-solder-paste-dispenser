@@ -1,0 +1,7 @@
+- ## Get Started
+  - [Overview](/{{route}}/{{version}}/overview)
+- ## Software
+  - [Overview](/{{route}}/{{version}}/software/overview)
+  - [Development](/{{route}}/{{version}}/software/development)
+  - [Flashing](/{{route}}/{{version}}/software/flashing)
+  - [Translations](/{{route}}/{{version}}/software/translations)
